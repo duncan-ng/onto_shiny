@@ -14,18 +14,22 @@ authors:
     affiliation: 2
   - name: Duncan Ng
     orcid: 0000-0000-0000-0000
-    affiliation: 2
+    affiliation: 3
   - name: Duygu Dede Sener
     orcid: 0000-0000-0000-0000
-    affiliation: 2
+    affiliation: 4
   - name: Finn Sandø 
     orcid: 0000-0000-0000-0000
-    affiliation: 2
+    affiliation: 1
 affiliations:
- - name: Institution 1, address, city, country
+ - name:  Department of Plant and Environmental Sciences, University of Copenhagen, Copenhagen, Denmark
    index: 1
- - name: Institution 1, address, city, country
+ - name: IMDEA Research  Institute on Food&Health Sciences , Madrid, Spain
    index: 2
+ - name: Quadram Research  Institute , Norwich, United Kingdom
+   index: 3
+ - name: Department of Bioinformatics , Maastricht University, Maastricht, Netherlands
+   index: 4
 date: 11/11/2022
 bibliography: paper.bib
 authors_short: Last et al. (2021) BioHackrXiv  template
