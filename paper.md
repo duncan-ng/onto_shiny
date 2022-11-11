@@ -45,7 +45,6 @@ Ontology assignment is a significant problem for data providers. There has been 
 
 In this study, we developed a semi-automated tool for assigning ontologies to food and nutrition studies. The main strength of this tool is providing annotation in an easy way for the user rather than selecting an ontology for each term manually. With this tool, users can query ontologies by providing metadata, dietary intake data, food diaries, or food consumption data.  This tool includes getting data from users, preparing it to be used in the lookup service and extracting term-ontology mapping from the service via API. The tool is showcased on a dataset DIME (Dietary Bioactives and Microbiome Diversity) https://quadram.ac.uk/dimestudy/  
 
-
 # Methods
 
 We developed a user interface via RShiny App for getting user queries, getting data from ontology repositories by using an ontology lookup service (ZOOMA) via API. 
@@ -66,3 +65,6 @@ As a lookup service, ZOOMA has some limitations, so we can use OLS (Ontology Loo
 
 This work was done during the BioHackathon 2022 organized by ELIXIR in October 2022 in Paris, France. We thank the organizers for the opportunity and the support via travel grants for some of the authors.
 
+# References
+
+Côté, R., Reisinger, F., Martens, L., Barsnes, H., Vizcaino, J. A., & Hermjakob, H. (2010). The ontology lookup service: bigger and better. Nucleic acids research, 38(suppl_2), W155-W160.
